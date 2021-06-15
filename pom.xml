@@ -154,7 +154,7 @@
         <version>${github.release.plugin.version}</version>
         <configuration>
           <description>Eighth 0.9 release in Github</description>
-          <releaseName>0.9 RC9</releaseName>
+          <releaseName>0.9 RC8</releaseName>
           <tag>${project.version}</tag>
           <fileSets>
             <fileSet>
